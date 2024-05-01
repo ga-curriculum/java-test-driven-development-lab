@@ -2,39 +2,21 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your `~/code/ga/labs` directory:
+Open IntelliJ IDEA Community Edition and create a new Java project. Select the following setting for this lab:
 
-```bash
-cd ~/code/ga/labs
-```
+- **Named**: `java-test-driven-development-using-junit-lab`
+- **Location**: `~/labs` - This can be anywhere, but I suggest this location for consistency
+- **Build System**: IntelliJ
+- **JDK**: 17 - This should be already downloaded on your machine
 
-<!-- tktk if starter code exists -->
+Once you have selcted the settings, click `Finish`.
 
-Fork the [[tktk Repo Name]](https://git.generalassemb.ly/modular-curriculum-all-courses/[tktk Repo Name]) repository.
+Remove the starter code from the `Main.java` file and complete the exercises.
 
-<!-- tktk if starting from scratch  -->
+## Running your Work
 
-Make a new repository on [GitHub](https://github.com/) named [tktk Repo Name].
+When you are at a point to run your work you can either:
 
-<!-- tktk -->
-
-Clone a copy of your remote repo locally by using the `git clone` command:
-
-```bash
-git clone https://github.com/<your-username>/[tktk Repo Name].git [tktk Personal GitHub for new labs]
-git clone https://git.generalassemb.ly/<your-username>/[tktk Repo Name].git [tktk GA enterprise GitHub for starter code]
-```
-
-> 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
-
-Next, `cd` into your new cloned directory, `[tktk Repo Name]`:
-
-```bash
-cd [tktk Repo Name]
-```
-
-Open the project's folder in your code editor:
-
-```bash
-code .
-```
+1. Right-click on the `Main` class and select `Run 'Main.main()'`.
+2. Click the green play button next to the `Main` class.
+3. Use the terminal to compile and run the program.
