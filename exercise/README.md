@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Exercise](./assets/hero.png)
+# ![[tktk Module Name] - Exercise](./assets/java-tdd-exercise.png)
 
 ## 1. Account Balance Exercise
 
