@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This lab exercise enables students to apply Test-Driven Development (TDD) principles by creating and refining tests for Account balance operations and Factorial calculations.
 
 ## Prerequisites
 
