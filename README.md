@@ -11,7 +11,7 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **135 min**
+Estimated time to complete core lab exercise: **120 min**
 
 ## Content
 
