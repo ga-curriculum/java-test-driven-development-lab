@@ -1,22 +1,28 @@
-# ![[tktk Module Name] - Setup](./assets/setup.png)
+<h1>
+  <span class="headline">Java Test-Driven Development Lab</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 ## Setup
 
-Open IntelliJ IDEA Community Edition and create a new Java project. Select the following setting for this lab:
+Launch the IntelliJ IDEA application.
 
-- **Named**: `java-test-driven-development-using-junit-lab`
-- **Location**: `~/labs` - This can be anywhere, but I suggest this location for consistency
-- **Build System**: IntelliJ
-- **JDK**: 17 - This should be already downloaded on your machine
+Select the **New Project** option.
 
-Once you have selcted the settings, click `Finish`.
+Name the project `java-test-driven-development-lab`.
 
-Remove the starter code from the `Main.java` file and complete the exercises.
+Create the project in the <code class="filepath">~/code/ga/labs</code> directory.
 
-## Running your Work
+> ⚠️ Windows users, the <code class="filepath">labs</code> directory is likely at this location on your device: <code class="filepath">C:\Users\username\code\ga\labs</code> (replacing `username` with your username). Create the project in that directory instead.
 
-When you are at a point to run your work you can either:
+Choose the **Maven** build system option.
 
-1. Right-click on the `Main` class and select `Run 'Main.main()'`.
-2. Click the green play button next to the `Main` class.
-3. Use the terminal to compile and run the program.
+Ensure the JDK used is **temurin-17**. This should be the default setting when starting a new project. If it's not, alert your instructor.
+
+Ensure that the **Add sample code** option is not checked.
+
+After confirming that the **New Project** window looks similar to the screenshot below, select the **Create** button. The name of the project should be `java-test-driven-development-lab`, not `untitled`.
+
+![A new project being created in the ~/code/ga/labs directory, the JDK is temurin-17, and the add sample code option is has been unchecked. The name of the project should be java-test-driven-development-lab.](./assets/new-project-complete.png)
+
+We can get to work now that our project is set up.

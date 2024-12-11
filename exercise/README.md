@@ -1,8 +1,13 @@
-# ![[tktk Module Name] - Exercise](./assets/java-tdd-exercise.png)
+<h1>
+  <span class="headline">Java Test-Driven Development Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
-## 1. Account Balance Exercise
+## 1. Account balance exercise
 
 Using TDD, complete the following exercise.
+
+Create a new `Account` class, and a corresponding `AccountTest` class, using the process we've previously demonstrated in lecture.
 
 Write the following tests for the `Account` class:
 
@@ -25,9 +30,11 @@ For each of the test cases:
 | I have $100 in my account | I withdraw $50  | I see that my account contains $50  |
 | I have $50 in my account  | I withdraw $100 | I see that my account contains $50  |
 
-### 2. Factorial Exercise
+### 2. Factorial exercise
 
 Using TDD, complete the following exercise.
+
+Create a new `Factorial` class, and a corresponding `FactorialTest` class, using the process we've previously demonstrated in lecture.
 
 Write the following tests for the `Factorial` class:
 
