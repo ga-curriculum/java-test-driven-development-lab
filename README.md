@@ -25,7 +25,7 @@ Estimated time to complete core lab exercise: **120 min**
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/java-test-driven-development-using-junit-lab-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/java-test-driven-development-lab-solution)
 
 ### Course landing pages
 
